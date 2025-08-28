@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tech-master1234
+- 👋 Hi, I’m @Manoj-Bharathi-S
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate
